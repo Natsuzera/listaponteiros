@@ -4,7 +4,7 @@
 
 
 void funcao(char** str){
-  str++;
+  *str++;
 }
 
 int main(){
